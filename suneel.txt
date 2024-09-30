@@ -21,3 +21,18 @@ git config --global user.name "username"
 git commit -m "added"
 
 git push origin main
+
+----------------------
+create a branch 
+
+git checkout -b new-branch-name
+
+swtch from one branch to another branch
+
+git checkout branch-name
+
+
+List all branches: To view all available branches in your local repository
+
+git branch
+
